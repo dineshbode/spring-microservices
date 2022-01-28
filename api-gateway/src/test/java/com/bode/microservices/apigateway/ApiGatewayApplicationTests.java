@@ -1,10 +1,10 @@
-package com.bode.microservices.currencyconversionservice;
+package com.bode.microservices.apigateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CurrencyConversionServiceApplicationTests {
+class ApiGatewayApplicationTests {
 
 	@Test
 	void contextLoads() {
